@@ -12,9 +12,7 @@
 
 ### 👋 About me
 
-I'm an Information Technology student at **NJIT** (graduating **December 2026**) and a full stack bootcamp grad, focused on backend and full stack development with **Java, Spring Boot, and React**. Before moving into software, I spent years in hands-on tech roles, repairing and configuring hardware and supporting IT operations, so I like knowing how things work from the hardware up.
-
-🎯 Looking for **full stack and backend developer** roles &nbsp;·&nbsp; 🌎 Fluent in **English and Spanish**
+I'm **Michael Vythilengam**, an **Information Technology** major at **NJIT**, graduating in **December 2026**.
 
 ### 🛠️ Skills
 
@@ -46,11 +44,11 @@ I'm an Information Technology student at **NJIT** (graduating **December 2026**)
 
 ### 🎓 Education
 
-| School | Credential | Dates |
-|---|---|---|
-| **New Jersey Institute of Technology** | B.S. in Information Technology | 2021 – Dec. 2026 |
-| **We Can Code It** | Certificate in Full Stack Development | 2023 |
-| **Bergen Community College** | Associate's Degree in Computer Science | 2019 – 2020 |
+| School | Credential |
+|---|---|
+| **New Jersey Institute of Technology** | B.S. in Information Technology |
+| **We Can Code It** | Certificate in Full Stack Development |
+| **Bergen Community College** | Associate's Degree in Computer Science |
 
 **Relevant coursework:** Building Web Applications · Internet Applications · Advanced Programming for IT · Database Design & Management · Advanced Database Systems · Operating Systems · Programming in Linux
 
