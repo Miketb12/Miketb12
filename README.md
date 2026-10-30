@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Michael+%F0%9F%91%8B;Full+Stack+Developer;Java+%2B+Spring+Boot+%2B+React;NJIT+IT+%E2%80%94+Class+of+Dec+2026" alt="Typing intro" />
+<h1>Michael Vythilengam</h1>
 
-<a href="https://www.linkedin.com/in/michael-vythilengam-b795852a1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:michaelvythilengam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=Miketb12&style=for-the-badge&color=2F81F7" alt="Profile views" />
+<p><b>Full Stack Developer</b> &nbsp;|&nbsp; Java · Spring Boot · React</p>
+
+<a href="https://www.linkedin.com/in/michael-vythilengam-b795852a1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:michaelvythilengam@gmail.com"><img src="https://img.shields.io/badge/Email-24292F?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -12,7 +13,9 @@
 
 ### 👋 About me
 
-I'm **Michael Vythilengam**, an **Information Technology** major at **NJIT**, graduating in **December 2026**.
+- **Name:** Michael Vythilengam
+- **Major:** B.S. in Information Technology, NJIT
+- **Graduating:** December 2026
 
 ### 🛠️ Skills
 
@@ -44,11 +47,9 @@ I'm **Michael Vythilengam**, an **Information Technology** major at **NJIT**, gr
 
 ### 🎓 Education
 
-| School | Credential |
-|---|---|
-| **New Jersey Institute of Technology** | B.S. in Information Technology |
-| **We Can Code It** | Certificate in Full Stack Development |
-| **Bergen Community College** | Associate's Degree in Computer Science |
+- **New Jersey Institute of Technology**: B.S. in Information Technology
+- **We Can Code It**: Certificate in Full Stack Development
+- **Bergen Community College**: Associate's Degree in Computer Science
 
 **Relevant coursework:** Building Web Applications · Internet Applications · Advanced Programming for IT · Database Design & Management · Advanced Database Systems · Operating Systems · Programming in Linux
 
