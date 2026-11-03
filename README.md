@@ -11,7 +11,7 @@
 
 ---
 
-### 👋 About me
+### About me
 
 - **Name:** Michael Vythilengam
 - **Major:** B.S. in Information Technology, NJIT
